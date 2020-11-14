@@ -1,4 +1,4 @@
-### WELCOME 👋
+### HELLO 👋
 
 
 - 🔭 I’m currently working on enhancing my Coding Skills.
